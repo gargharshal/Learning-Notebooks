@@ -1,4 +1,6 @@
 # when all the data is not in numeric format we need to convert in it
+# there is 2 types of encoding, for details - https://medium.com/analytics-vidhya/types-of-categorical-data-encoding-schemes-a5bbeb4ba02b
+
 ##################
 # M-1 One Hot Encoder
 
