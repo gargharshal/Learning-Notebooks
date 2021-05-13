@@ -106,7 +106,6 @@ pkmn_type_colors = ['#78C850',  # Grass
 
 
 # Set theme
-sns.set_style('whitegrid')
 plt.figure (figsize = (10, 6))
 # Violin plot
 sns.violinplot(x='Type 1', y='Attack', data=df, palette=pkmn_type_colors);
@@ -168,11 +167,6 @@ corr = stats_df.corr()
 #create heatmap
 sns.heatmap(corr);
 
-
-
-#Histogram
-
-sns.distplot(df.Attack)
 
 
 #bar plot
