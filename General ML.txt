@@ -1,0 +1,50 @@
+global/local minima/maxima
+confidence interval
+Gradient descent
+learning rate
+KNN vs K-Means
+SVC vs LinearSVC
+
+Optimization algorithms:	
+- Gradient descent
+- Conjugate gradient	
+- BFGS	
+- LBFGS
+
+-----------------------
+For this exercise, the models we're going to try and compare are:
+* [LinearSVC](https://scikit-learn.org/stable/modules/svm.html#classification)
+* [KNeighborsClassifier](https://scikit-learn.org/stable/modules/neighbors.html) (also known as K-Nearest Neighbors or KNN)
+* [SVC](https://scikit-learn.org/stable/modules/svm.html#classification) (also known as support vector classifier, a form of [support vector machine](https://en.wikipedia.org/wiki/Support-vector_machine))
+* [LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html) (despite the name, this is actually a classifier)
+* [RandomForestClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html) (an ensemble method and what we used above)
+-----------------------
+
+Imp
+
+PCA
+	Eigen
+		value
+		matrix
+		vectors
+		decomposition
+	covariance matrix
+https://muthu.co/mathematics-of-principal-component-analysis/
+https://www.youtube.com/watch?time_continue=792&v=PFDu9oVAE-g&feature=emb_title
+
+---------------------------------------------------------
+
+ https://www.coursera.org/learn/nlp-sequence-models/lecture/agZiL/gated-recurrent-unit-gru
+	GRU and LSTM
+	
+word2Vec (vs negative sampling)
+	we only need to find the total of the values we are taking, so why it is not as good as negative sampling.
+	also the equation is changed, so how are we even comparing
+	
+---
+A good paper to read
+	papineni et. al., 2002, BLEU : a method for automatic evaluation of machine translation
+	
+	
+------------
+Attention Model - Equations
