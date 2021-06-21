@@ -1,3 +1,3 @@
 # Learning Notebooks
  
-Different folders contains pratice codes of the different python libraries
+Different folders contains practice codes of the different python libraries
